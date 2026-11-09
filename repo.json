@@ -1,27 +1,27 @@
 [
-  {
-    "Author": "Crimson",
-    "Name": "NIRÆ Tailor",
-    "InternalName": "NiraeTailor",
-    "AssemblyVersion": "0.4.0.0",
-    "Description": "Pick an outfit someone is wearing and port it: from NIRÆ to your FluxHD2 Lalafell (with the outfit's own physics bones), or from another body (Bibo+, Rue+, NeoLithe, YAB, Omoi ...) to NIRÆ with every build, chest, belly and hips option and the body's jiggles. Makes its own Penumbra mod with a Shown / Removed switch for every clothing piece and the outfit's own options, enables it in the collection you pick and redraws. /tailor",
-    "Punchline": "Port outfits to NIRÆ and to your Lalafell.",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "mods",
-      "outfits",
-      "penumbra"
-    ],
-    "DalamudApiLevel": 15,
-    "TestingAssemblyVersion": "0.4.0.0",
-    "TestingDalamudApiLevel": 15,
-    "RepoUrl": "https://github.com/urimusha/nirae-tailor",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/urimusha/nirae-tailor/main/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/urimusha/nirae-tailor/main/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/urimusha/nirae-tailor/main/latest.zip",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "LastUpdate": 1794111022,
-    "DownloadCount": 0
-  }
+    {
+        "Author":  "Crimson",
+        "Name":  "NIRÆ Tailor",
+        "InternalName":  "NiraeTailor",
+        "AssemblyVersion":  "0.7.0.0",
+        "TestingAssemblyVersion":  "0.7.0.0",
+        "Description":  "Pick an outfit someone is wearing and port it: from NIRÆ to your FluxHD2 Lalafell (with the outfit\u0027s own physics bones), or from another body (Bibo+, Rue+, NeoLithe, YAB, Omoi ...) to NIRÆ with every build, chest, belly and hips option and the body\u0027s jiggles. Makes its own Penumbra mod with a Shown / Removed switch for every clothing piece and the outfit\u0027s own options, enables it in the collection you pick and redraws. /tailor",
+        "Punchline":  "Port outfits to NIRÆ and to your Lalafell.",
+        "ApplicableVersion":  "any",
+        "Tags":  [
+                     "mods",
+                     "outfits",
+                     "penumbra"
+                 ],
+        "DalamudApiLevel":  15,
+        "TestingDalamudApiLevel":  15,
+        "RepoUrl":  "https://github.com/urimusha/nirae-tailor",
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/urimusha/nirae-tailor/main/latest.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/urimusha/nirae-tailor/main/latest.zip",
+        "DownloadLinkTesting":  "https://raw.githubusercontent.com/urimusha/nirae-tailor/main/latest.zip",
+        "IsHide":  false,
+        "IsTestingExclusive":  false,
+        "LastUpdate":  1794202500,
+        "DownloadCount":  0
+    }
 ]
